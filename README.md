@@ -1,1 +1,2 @@
 # DailyExpense-Tracker
+The DailyExpense Tracker System is a simple, web-based tool that helps users stay on top of their daily spending. Built with the MERN stack—MongoDB, Express.js, React.js, and Node.js—it offers a smooth, responsive experience across devices. Users can easily add, view, and manage expenses in one place. The app focuses on usability and performance, making it practical for everyday use. Its scalable design ensures it can grow with user needs over time
